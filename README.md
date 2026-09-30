@@ -1,14 +1,12 @@
-# Fast Leaf Decay 🍃
+## Fast Leaf Decay
 
 ![Fast Leaf Decay Icon](./src/main/resources/assets/fastleafdecay/icon.png)
 
 **Fast Leaf Decay** makes leaves decay rapidly (1–2 seconds) after you cut down a tree trunk, instead of lingering in the air for minutes. Natural leaf particles, item drops (apples, saplings, sticks), and smooth cascading waves!
 
-From the creator of [Bigger Ender Chest](https://modrinth.com/mod/bigger-ender-chest), [Bigger Shulker Boxes](https://modrinth.com/mod/bigger-shulker-boxes), [Fair Totem](https://modrinth.com/mod/fair-totem), and [Smart Double Doors](https://modrinth.com/mod/smart-double-doors).
-
 ---
 
-## 📥 Downloadable Jars (All Versions)
+##  Downloadable Jars (All Versions)
 
 Pre-compiled releases for every supported Minecraft version line:
 
@@ -25,7 +23,7 @@ All versions are also published and maintained on [Modrinth](https://modrinth.co
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Fast & Natural**: Leaves decay within 1-2 seconds in smooth, satisfying waves.
 - **Full Drop Rates**: Apples, saplings, sticks, and modded leaf drops drop at full vanilla probabilities.
@@ -36,7 +34,7 @@ All versions are also published and maintained on [Modrinth](https://modrinth.co
 
 ---
 
-## 🛠️ Installation
+##  Installation
 
 1. Install [Fabric Loader](https://fabricmc.net/use/installer/) for Minecraft Java Edition.
 2. Download **Fast Leaf Decay** `.jar` from the table above, [Modrinth](https://modrinth.com/mod/fast-leaf-decay), or [GitHub Releases](https://github.com/antaripnandi/fast-leaf-decay/releases).
@@ -45,6 +43,6 @@ All versions are also published and maintained on [Modrinth](https://modrinth.co
 
 ---
 
-## 📄 License
+##  License
 
 Available under the [MIT License](LICENSE).
