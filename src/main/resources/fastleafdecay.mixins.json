@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.antarip.fastleafdecay.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "LeavesBlockMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

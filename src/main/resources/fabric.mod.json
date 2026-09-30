@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "fastleafdecay",
+  "version": "${version}",
+  "name": "Fast Leaf Decay",
+  "description": "Leaves decay quickly and naturally in 1-2 seconds after tree logs are destroyed. 100% vanilla parity and server-safe.",
+  "authors": [
+    "Antarip Nandi"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/fast-leaf-decay",
+    "sources": "https://github.com/antaripnandi/fast-leaf-decay",
+    "issues": "https://github.com/antaripnandi/fast-leaf-decay/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/fastleafdecay/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.antarip.fastleafdecay.FastLeafDecayMod"
+    ]
+  },
+  "mixins": [
+    "fastleafdecay.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "${minecraft_version}"
+  }
+}
